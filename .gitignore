@@ -1,1 +1,14 @@
+# Ignore specific files
 why.html
+
+# Ignore node_modules (example for Node.js project)
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore secret keys
+secret_keys.js
